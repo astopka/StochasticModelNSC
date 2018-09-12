@@ -1,1 +1,1 @@
-# StochasticModelNSC
+# Stochastic Model NSC

@@ -1,4 +1,4 @@
-# Stochastic Model NSC
+# Stochastic model of adult neurogenesis
 
 This repository contains the source code to the publication 
 
